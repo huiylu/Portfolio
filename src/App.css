@@ -55,4 +55,18 @@ body {
   background-color: white;
   margin:auto;
   width: 50%;
+  
+}
+
+.block {
+  display: grid;
+  grid: 150px / auto auto auto;
+  justify-content:space-around;
+
+}
+
+.project{
+  display: grid;
+  grid: 150px / auto auto auto;
+  justify-content:space-around;
 }
