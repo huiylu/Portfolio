@@ -1,3 +1,8 @@
+body {
+  background: black;
+  color: black;
+}
+
 .App {
   text-align: center;
 }
@@ -15,6 +20,8 @@
 
 .App-header {
   background-color: #282c34;
+  background: url("./img/Mountain.jpg");
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +42,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.img {
+  height: 300px;
+  border-radius: 600px;
+}
+
+.info-block{
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  margin:auto;
+  width: 50%;
 }
