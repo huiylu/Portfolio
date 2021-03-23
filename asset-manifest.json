@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ae45a096.chunk.css",
+    "main.js": "/Portfolio/static/js/main.4cf8c615.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.4cf8c615.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.381c7689.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.381c7689.js.map",
+    "static/js/2.41dc492a.chunk.js": "/Portfolio/static/js/2.41dc492a.chunk.js",
+    "static/js/2.41dc492a.chunk.js.map": "/Portfolio/static/js/2.41dc492a.chunk.js.map",
+    "static/js/3.85f1cafa.chunk.js": "/Portfolio/static/js/3.85f1cafa.chunk.js",
+    "static/js/3.85f1cafa.chunk.js.map": "/Portfolio/static/js/3.85f1cafa.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.ae45a096.chunk.css.map": "/Portfolio/static/css/main.ae45a096.chunk.css.map",
+    "static/js/2.41dc492a.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.41dc492a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Portfolio/static/media/Mountain.21708ce0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.381c7689.js",
+    "static/js/2.41dc492a.chunk.js",
+    "static/css/main.ae45a096.chunk.css",
+    "static/js/main.4cf8c615.chunk.js"
+  ]
+}
