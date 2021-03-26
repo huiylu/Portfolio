@@ -7,8 +7,10 @@ function Contact(){
                 <p>huiylu97@gmail.com</p>
             </div>
             <div>
-                <p>Href-Github</p>
-                <p>Href-Linkedin</p>
+                <a href="https://github.com/huiylu">Github</a>
+            </div>
+            <div>
+                <a href="https://www.linkedin.com/in/hui-lu-121a201ba/">Linkedin</a>
             </div>
             
         </div>
