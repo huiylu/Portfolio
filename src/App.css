@@ -99,3 +99,14 @@ body {
   border-bottom: 1px solid rgb(184, 212, 221);
   cursor: pointer;
 }
+
+.skill-block{
+  display: inline;
+}
+
+.icon-img{
+  max-width: 20px;
+  max-height: 20px;
+  margin: -40px;
+  margin-right: 55px;
+}
