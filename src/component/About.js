@@ -2,7 +2,7 @@ function About(){
     return(
         <div className="info-block">
             <div>
-                <img src="./Me.png"/>
+                <img src="./Me.png" alt="Picture of Hui"/>
                 <p>You Hui Lu</p>
                 
             </div>
