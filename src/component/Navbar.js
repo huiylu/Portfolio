@@ -7,7 +7,7 @@ function Navbar(){
             <nav>
                 <Link className="nav-link" to='/'>Home</Link>{' | '}
                 <Link className="nav-link" to='/about'>About Me</Link>{' | '}
-                <Link className="nav-link" to='./resume.pdf' target="_blank" download>Download Resume</Link>
+                <Link className="nav-link" to='./youhui-resume.pdf' target="_blank" download>Download Resume</Link>
             </nav>
             
         </div>
