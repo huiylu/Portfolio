@@ -6,17 +6,11 @@ function Skills(){
                 <p>HTML5</p>
                 <p>Javascript</p>
                 <p>Node.js</p>
-            </div>
-            <div className="block">
                 <p>REACT</p>
                 <p>Python</p>
                 <p>MongoDB</p>
             </div>
-            <div className="block">
-                <p>SQL</p>
-                <p>C++</p>
-                <p>Java</p>
-            </div>
+            
             
             
         </div>
