@@ -16,10 +16,7 @@ function Projects(){
                     process the data and display it using react-bootstrap-table to create a user friendly view of the data.         
                 </p>
             </div>
-            <div className="project">
-                <h4>Project3</h4>
-                <p>Description</p>
-            </div>
+            
         </div>
     )
 }

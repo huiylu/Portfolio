@@ -68,6 +68,7 @@ body {
 .project{
   display: inline-block;
   width: 25%;
+  margin-left: 50px;
   
 }
 
