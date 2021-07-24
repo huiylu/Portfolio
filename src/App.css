@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background: rgb(65, 59, 59);
   color: black;
 }
 
@@ -59,8 +59,8 @@ body {
 }
 
 .block {
-  display: grid;
-  grid: 50px / auto auto auto;
+  display: flex;
+  
   justify-content:space-around;
 
 }

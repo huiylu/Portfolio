@@ -16,6 +16,13 @@ function Projects(){
                     process the data and display it using react-bootstrap-table to create a user friendly view of the data.         
                 </p>
             </div>
+            <div className="project">
+                <h4><a href="/">Eduspark</a></h4>
+                <h6>Skills used: React, Node.js, Mongodb</h6>
+                <p>A React app that attempts to bridge the gap between teachers and parents with an intuitive app.
+                    It uses a MongoDb database to hold all the information and authentication to give the users information relevant to them.
+                </p>
+            </div>
             
         </div>
     )
